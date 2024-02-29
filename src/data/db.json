@@ -1,0 +1,60 @@
+{
+    "notices":[
+        {
+            "id":1,
+            "title":"Mid Sem Exam result will be declared on from 12th august 2021.",
+            "new":true
+        },
+        {
+            "id":2,
+            "title":"Mid Sem Exam will be from 2nd august 2021.",
+            "new":true
+        }, 
+        {
+            "id":3,
+            "title":"End Sem Exam result will be declared on from 12th December 2020.",
+            "new":false
+        },
+        {
+            "id":4,
+            "title":"Mid Sem Exam will be from 2nd December 2020.",
+            "new":false
+        }
+    ],
+
+    "toppers":[
+        {
+            "id":1,
+            "name":"Lav Joshi",
+            "batch":2019,
+            "cgpa":9.8,
+            "photo":"https://avatars.dicebear.com/api/male/bo.svg"
+        },
+        
+        {
+            "id":2,
+            "name":"Manish pandey",
+            "batch":2018,
+            "cgpa":9.5,
+            "photo":"https://avatars.dicebear.com/api/male/oo.svg"
+        },
+        
+        {
+            "id":3,
+            "name":"Sachin Sai",
+            "batch":2017,
+            "cgpa":9.7,
+            "photo":"https://avatars.dicebear.com/api/male/bol.svg"
+        },
+        
+        {
+            "id":4,
+            "name":"Lone Wolf",
+            "batch":2016,
+            "cgpa":9.6,
+            "photo":"https://avatars.dicebear.com/api/male/bmo.svg"
+        }
+        
+
+    ]
+}
